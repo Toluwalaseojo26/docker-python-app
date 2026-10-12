@@ -112,3 +112,7 @@ Possible improvements include:
 - Using Docker Compose
 - Publishing the image to Amazon ECR
 - Deploying the container using Amazon ECS or AWS Fargate
+
+## Application Screenshot
+
+![Dockerized Flask App](screenshots/flask-app.png)
